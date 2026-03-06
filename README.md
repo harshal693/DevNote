@@ -44,18 +44,6 @@ DevNote
 
 ---
 
-## Application Preview
-
-### Notes Dashboard
-
-![Dashboard](screenshots/screenshot1.png)
-
-### Editing Notes
-
-![Editor](screenshots/screenshot2.png)
-
----
-
 ## Run Locally
 
 ### Backend
